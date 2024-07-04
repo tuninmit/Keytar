@@ -1,0 +1,98 @@
+FreePiano 2.2
+
+GroupCount	1
+Group	Set	0
+KeySignature	Set	0
+Velocity	In_0	Set	100
+Velocity	In_1	Set	100
+Velocity	In_2	Set	100
+Velocity	In_3	Set	100
+Velocity	In_4	Set	100
+Velocity	In_5	Set	100
+Channel	In_1	Set	1
+Channel	In_2	Set	2
+Channel	In_3	Set	3
+Channel	In_4	Set	4
+Channel	In_5	Set	5
+Program	Out_0	Set	0
+Sustain	Out_0	Set	127
+Keydown	Esc	Note	In_5	F4
+Keydown	F1	Note	In_5	F#4
+Keydown	F2	Note	In_5	G4
+Keydown	F3	Note	In_5	G#4
+Keydown	F4	Note	In_5	A4
+Keydown	F5	Note	In_5	A#4
+Keydown	F6	Note	In_5	B4
+Keydown	F7	Note	In_5	C5
+Keydown	F8	Note	In_5	C#5
+Keydown	F9	Note	In_5	D5
+Keydown	F10	Note	In_5	D#5
+Keydown	F11	Note	In_5	E5
+Keydown	F12	Note	In_5	F5
+Keydown	~	Note	In_4	B3
+Keydown	1	Note	In_4	C4
+Keydown	2	Note	In_4	C#4
+Keydown	3	Note	In_4	D4
+Keydown	4	Note	In_4	D#4
+Keydown	5	Note	In_4	E4
+Keydown	6	Note	In_4	F4
+Keydown	7	Note	In_4	F#4
+Keydown	8	Note	In_4	G4
+Keydown	9	Note	In_4	G#4
+Keydown	0	Note	In_4	A4
+Keydown	-	Note	In_4	A#4
+Keydown	Tab	Note	In_3	G#3
+Keydown	Q	Note	In_3	A3
+Keydown	W	Note	In_3	A#3
+Keydown	E	Note	In_3	B3
+Keydown	R	Note	In_3	C4
+Keydown	T	Note	In_3	C#4
+Keydown	Y	Note	In_3	D4
+Keydown	U	Note	In_3	D#4
+Keydown	I	Note	In_3	E4
+Keydown	O	Note	In_3	F4
+Keydown	P	Note	In_3	F#4
+Keydown	{	Note	In_3	G4
+Keydown	CapsLock	Note	In_2	D#3
+Keydown	A	Note	In_2	E3
+Keydown	S	Note	In_2	F3
+Keydown	D	Note	In_2	F#3
+Keydown	F	Note	In_2	G3
+Keydown	G	Note	In_2	G#3
+Keydown	H	Note	In_2	A3
+Keydown	J	Note	In_2	A#3
+Keydown	K	Note	In_2	B3
+Keydown	L	Note	In_2	C4
+Keydown	:	Note	In_2	C#4
+Keydown	Shift	Note	In_1	A#2
+Keydown	Z	Note	In_1	B2
+Keydown	X	Note	In_1	C3
+Keydown	C	Note	In_1	C#3
+Keydown	V	Note	In_1	D3
+Keydown	B	Note	In_1	D#3
+Keydown	N	Note	In_1	E3
+Keydown	M	Note	In_1	F3
+Keydown	<	Note	In_1	F#3
+Keydown	>	Note	In_1	G3
+Keydown	Ctrl	Note	In_0	F2
+Keydown	Win	Note	In_0	F#2
+Keydown	Alt	Note	In_0	G2
+Keydown	RAlt	Note	In_0	G#2
+Keydown	Home	Note	In_5	E4
+Keydown	PgUp	Note	In_5	E4
+Keydown	End	Note	In_5	E4
+Keydown	PgDn	Note	In_1	G6
+Keydown	NumLock	Note	In_4	B3
+Keydown	Num/	Note	In_4	B3
+Keydown	Num*	Note	In_4	B3
+Keydown	Num7	Note	In_3	G3
+Keydown	Num8	Note	In_3	G3
+Keydown	Num9	Note	In_3	G3
+Keydown	Num4	Note	In_2	D3
+Keydown	Num5	Note	In_2	D3
+Keydown	Num6	Note	In_2	D3
+Keydown	Num1	Note	In_1	A2
+Keydown	Num2	Note	In_1	A2
+Keydown	Num3	Note	In_1	A2
+Keydown	Num0	Note	In_1	G3
+Keydown	Num.	Note	In_0	E2
